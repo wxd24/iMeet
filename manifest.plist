@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://54.222.142.120:8002/Content/iMeeting.ipa</string>
+					<string>http://54.222.142.120:8002/Content/iOS/iMeeting.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/wxd24/iMeet/blob/master/512.png</string>
+					<string>http://54.222.142.120:8002/Content/iOS/512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/wxd24/iMeet/blob/master/57.png</string>
+					<string>http://54.222.142.120:8002/Content/iOS/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
